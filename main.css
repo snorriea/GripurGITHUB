@@ -1,0 +1,22 @@
+body {
+    background: url("Images/barbershop.jpg") 50% 50%;
+    background-size: cover;
+    font-family: "Montserrat", sans-serif;
+
+}
+h1 {
+    color: whitesmoke;
+    text-align: left;
+    font-size: 100px
+}
+
+div.texti {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 30px;
+
+    margin: auto;
+}
